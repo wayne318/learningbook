@@ -1,6 +1,6 @@
 # learningbook
 学习书单
-## python入门电子书
+## [python入门电子书](python)
 1. Python编程快速上手—让繁琐工作自动化 PDF中文高清晰完整版.pdf
 2. 像计算机科学家一样思考Python(第2版)全.pdf
 3. 笨办法学 Python.pdf
