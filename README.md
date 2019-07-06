@@ -1,9 +1,9 @@
 # learningbook
 学习书单
 ## python入门电子书
-1. [Python编程快速上手—让繁琐工作自动化 PDF中文高清晰完整版.pdf](Python编程快速上手—让繁琐工作自动化PDF中文高清晰完整版.pdf)
-2. [像计算机科学家一样思考Python(第2版)全.pdf](像计算机科学家一样思考Python(第2版)全.pdf)
-3. [笨办法学 Python.pdf](笨办法学 Python.pdf)
+1. Python编程快速上手—让繁琐工作自动化 PDF中文高清晰完整版.pdf
+2. 像计算机科学家一样思考Python(第2版)全.pdf
+3. 笨办法学 Python.pdf
 
 ## python交流群（微信|QQ）
 - [x] ```python欢迎大家加入python学习微信群(目前人数较多 需要好友才能入群 请加管理员微信号)```
